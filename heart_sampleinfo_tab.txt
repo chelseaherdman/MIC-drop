@@ -1,0 +1,7 @@
+sample_id	stage	replicate_id
+embryonic_heart_0	embryonic	0
+embryonic_heart_1	embryonic	1
+embryonic_heart_2	embryonic	2
+adult_heart_0	adult	0
+adult_heart_1	adult	1
+adult_heart_2	adult	2

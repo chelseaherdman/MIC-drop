@@ -1,0 +1,13 @@
+{
+	"n_targets": 58532,
+	"n_bootstraps": 100,
+	"n_processed": 39164880,
+	"n_pseudoaligned": 29392830,
+	"n_unique": 16798293,
+	"p_pseudoaligned": 75.0,
+	"p_unique": 42.9,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 28 13:10:17 2019",
+	"call": "/usr/local/kallisto_linux-v0.44.0/kallisto quant -i /data3/cherdman/genome/GRCz10.r89.cdna.all.ncrna.kallisto_index -o embryonic_heart_1 -b 100 -t 14 ../fastq/SRR4017368.1_1.fastq.gz ../fastq/SRR4017368.1_2.fastq.gz"
+}

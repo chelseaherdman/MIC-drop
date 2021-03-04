@@ -1,0 +1,13 @@
+{
+	"n_targets": 58532,
+	"n_bootstraps": 100,
+	"n_processed": 79962166,
+	"n_pseudoaligned": 70025713,
+	"n_unique": 35664812,
+	"p_pseudoaligned": 87.6,
+	"p_unique": 44.6,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 28 13:35:12 2019",
+	"call": "/usr/local/kallisto_linux-v0.44.0/kallisto quant -i /data3/cherdman/genome/GRCz10.r89.cdna.all.ncrna.kallisto_index -o adult_muscle_0 -b 100 -t 14 ../fastq/SRR4017373.1_1.fastq.gz ../fastq/SRR4017373.1_2.fastq.gz"
+}

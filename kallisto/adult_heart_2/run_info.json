@@ -1,0 +1,13 @@
+{
+	"n_targets": 58532,
+	"n_bootstraps": 100,
+	"n_processed": 70494372,
+	"n_pseudoaligned": 56730920,
+	"n_unique": 33485937,
+	"p_pseudoaligned": 80.5,
+	"p_unique": 47.5,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 28 13:18:56 2019",
+	"call": "/usr/local/kallisto_linux-v0.44.0/kallisto quant -i /data3/cherdman/genome/GRCz10.r89.cdna.all.ncrna.kallisto_index -o adult_heart_2 -b 100 -t 14 ../fastq/SRR4017372.1_1.fastq.gz ../fastq/SRR4017372.1_2.fastq.gz"
+}

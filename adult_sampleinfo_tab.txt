@@ -1,0 +1,7 @@
+sample_id	tissue	replicate_id
+adult_heart_0	heart	0
+adult_heart_1	heart	1
+adult_heart_2	heart	2
+adult_muscle_0	muscle	0
+adult_muscle_1	muscle	1
+adult_muscle_2	muscle	2
